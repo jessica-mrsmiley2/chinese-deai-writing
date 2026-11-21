@@ -1,0 +1,5 @@
+name: "chinese_deai_writing"
+title: "中文去味写作"
+description: "把中文稿从机器拼装感改成真人写作，覆盖材料诊断、硬禁令清理、多遍修订与短帖六查，写作或改稿中文帖子、长帖、文案时使用。"
+category: "Work and knowledge"
+include_in_prompt: true
